@@ -1,0 +1,47 @@
+{"users": [
+  {
+    "id": 1,
+    "name": "Rahim Uddin",
+    "email": "rahim.uddin@gmail.com",
+    "phone": "+8801712345678",
+    "address": "Dhaka, Bangladesh",
+    "age": 24,
+    "profession": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Karima Sultana",
+    "email": "karima.sultana@gmail.com",
+    "phone": "+8801811122233",
+    "address": "Chittagong, Bangladesh",
+    "age": 22,
+    "profession": "UI/UX Designer"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hasan",
+    "email": "tanvir.hasan@gmail.com",
+    "phone": "+8801912349876",
+    "address": "Sylhet, Bangladesh",
+    "age": 25,
+    "profession": "Digital Marketer"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "email": "nusrat.jahan@gmail.com",
+    "phone": "+8801612345678",
+    "address": "Khulna, Bangladesh",
+    "age": 23,
+    "profession": "Content Writer"
+  },
+  {
+    "id": 5,
+    "name": "Fahim Ahmed",
+    "email": "fahim.ahmed@gmail.com",
+    "phone": "+8801512345678",
+    "address": "Rajshahi, Bangladesh",
+    "age": 26,
+    "profession": "Backend Developer"
+  }
+]}
