@@ -1,3 +1,11 @@
+## April 23, 2026
+
+Today's learning:
+
+- How HeroUI modal components need a proper trigger wrapper to open.
+- Why route revalidation must match the actual route path exactly, including case.
+- How to use a server action with `revalidatePath` and a JSON server API instead of mutating imported JSON directly.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

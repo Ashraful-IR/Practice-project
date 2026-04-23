@@ -3,6 +3,7 @@
 @plugin "daisyui" {
   themes: all;
 }
+@import "@heroui/styles";
 
 :root {
   --background: #ffffff;

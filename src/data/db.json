@@ -1,4 +1,4 @@
-{"users": [
+[
   {
     "id": 1,
     "name": "Rahim Uddin",
@@ -43,5 +43,14 @@
     "address": "Rajshahi, Bangladesh",
     "age": 26,
     "profession": "Backend Developer"
+  },
+   {
+    "id": 6,
+    "name": "Fahim Ahmedssssssssssssssssss",
+    "email": "fahim.ahmed@gmail.com",
+    "phone": "+8801512345678",
+    "address": "Rajshahi, Bangladesh",
+    "age": 26,
+    "profession": "Backend Developer"
   }
-]}
+]
